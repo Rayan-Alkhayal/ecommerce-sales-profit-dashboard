@@ -1,6 +1,6 @@
 # E-commerce Sales & Profit Dashboard
 
-An interactive Excel dashboard built on a star-schema data model, analyzing e-commerce sales and profit by region, category, segment, ship mode, and customer (2014–2017).
+An interactive Excel dashboard built on a star-schema data model, analyzing e-commerce sales and profit by region, category, segment, ship mode, and customer (2014 – 2017).
 
 ![Dashboard Preview](/images/dashboard.png.png)
 
