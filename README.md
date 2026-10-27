@@ -13,7 +13,7 @@ Evaluate sales and profit performance and identify which regions, cities, produc
 ## Dataset
 - Six tables : transactions, customers, locations, products, segments, and ship modes
 - Period : January 2014 to December 2017
-- Source : a training dataset provided by the instructor of a data analysis training program as a practice exercise, shared with permission for portfolio use. 
+- **Source :** a training dataset provided by the instructor of a data analysis training program as a practice exercise, shared with permission for portfolio use. 
 
 ## Tools & Techniques
 - **Microsoft Excel**
