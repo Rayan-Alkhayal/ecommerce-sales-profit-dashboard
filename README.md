@@ -2,7 +2,7 @@
 
 An interactive Excel dashboard built on a star-schema data model, analyzing e-commerce sales and profit by region, category, segment, ship mode, and customer (2014–2017).
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](/images/dashboard.png.png)
 
 ## Project Overview
 This project loads six related tables into Excel's Data Model using Power Query and analyzes 9,994 transactions from 5,009 orders and 793 customers. The dashboard includes 8 KPI cards, 6 charts, and slicers for year, month, and product category. All amounts are in SAR.
